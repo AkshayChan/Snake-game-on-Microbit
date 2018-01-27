@@ -1,1 +1,1 @@
-# Snake-game-on-Microbit-using-Python
+# Snake-game-on-Microbit
